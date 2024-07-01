@@ -1,6 +1,12 @@
+body {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
 .filters {
   background: white;
   width: 100%;
+  align-content: center;
 }
 .filters li {
   display: inline-block;
